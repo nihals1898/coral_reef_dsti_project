@@ -24,7 +24,7 @@ Want to replicate what we've done? No worries, follow these steps and you'll be 
    pip install -r requirements.txt
    ```
 
-3. **Run the Jupyter Notebook** 🚀  
+3. **Run the Jupyter Notebook** 
    Fire up Jupyter Lab and run through the notebook step by step:
    ```
    jupyter lab Coral_Reef_ML_Project.ipynb
@@ -44,7 +44,7 @@ Want to replicate what we've done? No worries, follow these steps and you'll be 
    We tried out several models including:
    - **Linear Regression**: Our baseline model for predicting diversity.
    - **Random Forest Regressor**: Handles non-linear relationships like a champ!
-   - **XGBoost Regressor**: The ultimate model that beat them all, winning the fishy race 🐠 with the lowest error and highest accuracy!
+   - **XGBoost Regressor**: The ultimate model that beat them all, winning the fishy race with the lowest error and highest accuracy!
 
 6. **Model Performance**   
    Our best model was XGBoost, with:
